@@ -1,0 +1,1 @@
+dir *.ts /b /s > ts-files.txt

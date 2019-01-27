@@ -1,0 +1,11 @@
+C:\Users\Erick\Documents\EnGardeDev\abst-EnGardeIO.ts
+C:\Users\Erick\Documents\EnGardeDev\Board.ts
+C:\Users\Erick\Documents\EnGardeDev\Deck.ts
+C:\Users\Erick\Documents\EnGardeDev\Game.ts
+C:\Users\Erick\Documents\EnGardeDev\Hand.ts
+C:\Users\Erick\Documents\EnGardeDev\HelloWorld.ts
+C:\Users\Erick\Documents\EnGardeDev\Player.ts
+C:\Users\Erick\Documents\EnGardeDev\zzCmdEnGardeIO.ts
+C:\Users\Erick\Documents\EnGardeDev\zzzCmdEnGarde.ts
+C:\Users\Erick\Documents\EnGardeDev\node_modules\@types\node\index.d.ts
+C:\Users\Erick\Documents\EnGardeDev\node_modules\@types\node\inspector.d.ts
